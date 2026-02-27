@@ -2,6 +2,9 @@
 
 Aplicación iOS desarrollada en **SwiftUI** que consume la API oficial de Rick & Morty para listar personajes con paginación, búsqueda y navegación a detalle.
 
+<img width="250" height="460" alt="image" src="https://github.com/user-attachments/assets/7a95c1bd-b1fb-4586-b680-4a150c0a2b12" />
+<img width="250" height="460" alt="image" src="https://github.com/user-attachments/assets/06056c94-e1c5-47e0-9342-d5b9178d88f0" />
+
 ---
 
 ## Cómo correr el proyecto
@@ -79,3 +82,5 @@ En SwiftUI fue necesario:
 - Manejar re-render automático de vistas
 
 La solución incluyó control de concurrencia, cancelación de Task y validación de respuestas activas.
+
+
