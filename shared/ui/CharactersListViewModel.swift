@@ -91,6 +91,6 @@ final class CharactersListViewModel: ObservableObject {
         let start = (currentPage - 1) * apiPageSize + 1
         let end = min(currentPage * apiPageSize, totalCount)
         
-        return "Mostrando \(start)–\(end) de \(totalCount) · Página \(currentPage)/\(totalPages)"
+        return "Página \(currentPage)/\(totalPages)"
     }
 }
