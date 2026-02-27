@@ -1,4 +1,4 @@
-# Ricky and morty Characters – iOS Technical Challenge
+# Ricky and morty Characters – iOS 
 
 Aplicación iOS desarrollada en **SwiftUI** que consume la API oficial de Rick & Morty para listar personajes con paginación, búsqueda y navegación a detalle.
 
